@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 leaning about cloud ☁️
 ----------------------
 
-☁️ Passionate about Cloud Computing and DevOps
+☁️ Passionate about Cloud 
 
 🐳 Currently learning Docker, Linux, and Kubernetes
 
@@ -17,6 +17,5 @@ leaning about cloud ☁️
 🚀 Working towards becoming a Cloud Engineer
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [ramandevgan21@gmail.com](mailto:ramandevgan21@gmail.com)
 * 🧠  I'm currently learning AWS,DOCKER,PYTHON,TERRAFORM
 * 💬  Ask me about Part-time freelancer on Upwork
