@@ -15,4 +15,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in INDIA
 * 🧠  I'm currently learning AWS,DOCKER,PYTHON,TERRAFORM
-* 💬  Ask me about Part-time freelancer on Upwork
+* 💬  Part-time freelancer on Upwork
